@@ -9,7 +9,7 @@
 // Options
 
 var startDate = "2021-01-01";
-var endDate = "2021-10-31";
+var endDate = "2021-11-30";
 // The start and end date of the date range for your search query data
 // Format is yyyy-mm-dd
 
